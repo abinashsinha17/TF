@@ -1,0 +1,108 @@
+2026-07-02 21:28:23,743 - INFO - Loading Semantic Similarity Model (all-MiniLM-L6-v2)...
+2026-07-02 21:28:23,744 - INFO - No device provided, using cpu
+2026-07-02 21:28:24,243 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-02 21:28:24,267 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/modules.json "HTTP/1.1 200 OK"
+2026-07-02 21:28:24,526 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-02 21:28:24,541 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/config_sentence_transformers.json "HTTP/1.1 200 OK"
+2026-07-02 21:28:24,545 - INFO - Loading SentenceTransformer model from sentence-transformers/all-MiniLM-L6-v2.
+2026-07-02 21:28:24,778 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-02 21:28:24,797 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/config_sentence_transformers.json "HTTP/1.1 200 OK"
+2026-07-02 21:28:25,038 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md "HTTP/1.1 307 Temporary Redirect"
+2026-07-02 21:28:25,076 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/README.md "HTTP/1.1 200 OK"
+2026-07-02 21:28:25,336 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-02 21:28:25,352 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/modules.json "HTTP/1.1 200 OK"
+2026-07-02 21:28:25,631 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-02 21:28:25,668 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/sentence_bert_config.json "HTTP/1.1 200 OK"
+2026-07-02 21:28:25,909 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json "HTTP/1.1 404 Not Found"
+2026-07-02 21:28:26,167 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-02 21:28:26,182 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/config.json "HTTP/1.1 200 OK"
+2026-07-02 21:28:26,681 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-07-02 21:28:26,936 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-07-02 21:28:27,180 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/video_preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-07-02 21:28:27,422 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-07-02 21:28:27,670 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-02 21:28:27,690 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-07-02 21:28:27,940 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-02 21:28:27,957 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/config.json "HTTP/1.1 200 OK"
+2026-07-02 21:28:28,209 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-02 21:28:28,225 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/config.json "HTTP/1.1 200 OK"
+2026-07-02 21:28:28,474 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-02 21:28:28,489 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-07-02 21:28:28,754 - INFO - HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-07-02 21:28:29,049 - INFO - HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-07-02 21:28:29,384 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/1_Pooling/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-02 21:28:29,424 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/1_Pooling%2Fconfig.json "HTTP/1.1 200 OK"
+2026-07-02 21:28:29,668 - INFO - HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2 "HTTP/1.1 200 OK"
+2026-07-02 21:28:29,680 - INFO - 
+================================================================================
+2026-07-02 21:28:29,681 - INFO - ================== ADVANCED CONTEXTUAL TRANSLATION BENCHMARK ===================
+2026-07-02 21:28:29,681 - INFO - ================================================================================
+
+2026-07-02 21:28:29,804 - INFO - Loading local NLLB model facebook/nllb-200-distilled-600M...
+2026-07-02 21:28:30,041 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/nllb-200-distilled-600M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-02 21:28:30,055 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/nllb-200-distilled-600M/f8d333a098d19b4fd9a8b18f94170487ad3f821d/config.json "HTTP/1.1 200 OK"
+2026-07-02 21:28:30,075 - ERROR - Failed to load NLLB: "Unknown task translation, available tasks are ['any-to-any', 'audio-classification', 'automatic-speech-recognition', 'depth-estimation', 'document-question-answering', 'feature-extraction', 'fill-mask', 'image-classification', 'image-feature-extraction', 'image-segmentation', 'image-text-to-text', 'keypoint-matching', 'mask-generation', 'ner', 'object-detection', 'sentiment-analysis', 'table-question-answering', 'text-classification', 'text-generation', 'text-to-audio', 'text-to-speech', 'token-classification', 'video-classification', 'zero-shot-audio-classification', 'zero-shot-classification', 'zero-shot-image-classification', 'zero-shot-object-detection']"
+2026-07-02 21:28:30,076 - INFO - 
+[1/2] Testing Context: 'Safety Devices'
+2026-07-02 21:28:30,076 - INFO - Original Text: The incubators are equipped with the following safety features: a sample protection feature that safeguards the samples against destruction through overheating in case of controller failure; dual fuses rated at 16 amperes.
+
+2026-07-02 21:28:30,077 - INFO - Starting evaluation for Gemma (Context-Aware)...
+2026-07-02 21:28:30,077 - INFO -   -> Step 1: Forward translating to German using google/gemma-3n-e2b-it...
+2026-07-02 21:28:33,399 - INFO -   -> Step 2: Back-translating to English...
+2026-07-02 21:28:36,097 - INFO -   -> Step 3: Calculating Semantic Similarity...
+2026-07-02 21:28:36,316 - INFO -   -> Step 4: Running LLM-as-a-Judge...
+2026-07-02 21:28:36,961 - INFO -   [RESULTS] Gemma (Context-Aware):
+2026-07-02 21:28:36,962 - INFO -     - German: Die Inkubatoren sind mit folgenden Sicherheitsmerkmalen ausgestattet: Eine ProbenSchutzfunktion, die die Proben vor Zerstörung durch Überhitzung im Falle eines Controller-Ausfalls schützt; doppelte Sicherungen mit einer Nennleistung von 16 Ampere.
+2026-07-02 21:28:36,962 - INFO -     - Back-Tr: The incubators are equipped with the following safety features: A sample protection function that protects the samples from destruction due to overheating in the event of a controller failure; double fuses with a rated current of 16 amperes.
+2026-07-02 21:28:36,963 - INFO -     - Metrics -> Time: 6.02s | Semantic Sim: 0.97 | LLM Judge: 4/5
+
+2026-07-02 21:28:36,964 - INFO - Starting evaluation for Llama (Context-Aware)...
+2026-07-02 21:28:36,964 - INFO -   -> Step 1: Forward translating to German using meta/llama-3.2-3b-instruct...
+2026-07-02 21:29:35,243 - INFO -   -> Step 2: Back-translating to English...
+2026-07-02 21:29:36,347 - INFO -   -> Step 3: Calculating Semantic Similarity...
+2026-07-02 21:29:36,448 - INFO -   -> Step 4: Running LLM-as-a-Judge...
+2026-07-02 21:29:37,100 - INFO -   [RESULTS] Llama (Context-Aware):
+2026-07-02 21:29:37,100 - INFO -     - German: Die Incubatoren sind mit folgenden Sicherheitsfunktionen ausgestattet: einer Proben schützenden Funktion, die die Proben vor Zerstörung durch Überhitzung schützt, falls der Steuerungsfehler auftritt; doppelten Schmelzleitern, die bei 16 Ampere geschützt sind.
+2026-07-02 21:29:37,101 - INFO -     - Back-Tr: The incubators are equipped with the following safety functions: a protective function for samples that protects the samples from destruction by overheating in case of a control error; double melt protectors that are protected at 16 amps.
+2026-07-02 21:29:37,101 - INFO -     - Metrics -> Time: 59.38s | Semantic Sim: 0.90 | LLM Judge: 4/5
+
+2026-07-02 21:29:37,102 - INFO - 
+[2/2] Testing Context: 'Sensing and Control System'
+2026-07-02 21:29:37,102 - INFO - Original Text: The PT 100-type sensor for the control of the work space temperature and for the thermal protection [1] is installed on the bottom of table-top units.
+
+2026-07-02 21:29:37,102 - INFO - Starting evaluation for Gemma (Context-Aware)...
+2026-07-02 21:29:37,103 - INFO -   -> Step 1: Forward translating to German using google/gemma-3n-e2b-it...
+2026-07-02 21:29:39,243 - INFO -   -> Step 2: Back-translating to English...
+2026-07-02 21:29:41,152 - INFO -   -> Step 3: Calculating Semantic Similarity...
+2026-07-02 21:29:41,231 - INFO -   -> Step 4: Running LLM-as-a-Judge...
+2026-07-02 21:29:41,891 - INFO -   [RESULTS] Gemma (Context-Aware):
+2026-07-02 21:29:41,892 - INFO -     - German: Der PT 100-Sensor zur Steuerung der Arbeitsplatztemperatur und zur thermischen Schutzfunktion [1] ist auf der Unterseite von Tischgeräten installiert.
+2026-07-02 21:29:41,892 - INFO -     - Back-Tr: The PT 100 sensor for controlling workplace temperature and for thermal protection function [1] is installed on the underside of table devices.
+2026-07-02 21:29:41,893 - INFO -     - Metrics -> Time: 4.05s | Semantic Sim: 0.92 | LLM Judge: 4/5
+
+2026-07-02 21:29:41,893 - INFO - Starting evaluation for Llama (Context-Aware)...
+2026-07-02 21:29:41,894 - INFO -   -> Step 1: Forward translating to German using meta/llama-3.2-3b-instruct...
+2026-07-02 21:30:16,427 - INFO -   -> Step 2: Back-translating to English...
+2026-07-02 21:30:37,473 - INFO -   -> Step 3: Calculating Semantic Similarity...
+2026-07-02 21:30:37,553 - INFO -   -> Step 4: Running LLM-as-a-Judge...
+2026-07-02 21:30:40,888 - INFO -   [RESULTS] Llama (Context-Aware):
+2026-07-02 21:30:40,889 - INFO -     - German: Der PT 100-Sensor für die Steuerung der Arbeitsplatztemperatur und für die thermische Schutzmaßnahme [1] wird auf der Unterseite der Tischgeräte installiert.
+2026-07-02 21:30:40,889 - INFO -     - Back-Tr: The PT 100 sensor for controlling workplace temperature and thermal protection measures [1] is installed on the underside of the table equipment.
+2026-07-02 21:30:40,890 - INFO -     - Metrics -> Time: 55.58s | Semantic Sim: 0.91 | LLM Judge: 4/5
+
+2026-07-02 21:30:40,890 - INFO - 
+================================================================================
+2026-07-02 21:30:40,891 - INFO - ====================== FINAL MODEL COMPARISON STATISTICS =======================
+2026-07-02 21:30:40,891 - INFO - ================================================================================
+2026-07-02 21:30:40,892 - INFO - 
+GEMMA (CONTEXT-AWARE)
+2026-07-02 21:30:40,892 - INFO -   Average RTT Latency    : 5.03 seconds
+2026-07-02 21:30:40,893 - INFO -   Semantic Integrity     : 94.1%
+2026-07-02 21:30:40,894 - INFO -   LLM Judge Score (1-5)  : 4.0/5.0
+2026-07-02 21:30:40,894 - INFO - 
+LLAMA (CONTEXT-AWARE)
+2026-07-02 21:30:40,895 - INFO -   Average RTT Latency    : 57.48 seconds
+2026-07-02 21:30:40,895 - INFO -   Semantic Integrity     : 90.9%
+2026-07-02 21:30:40,896 - INFO -   LLM Judge Score (1-5)  : 4.0/5.0
+2026-07-02 21:30:40,897 - INFO - 
+Benchmark complete.
